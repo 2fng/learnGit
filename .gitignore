@@ -1,3 +1,6 @@
 logs/
+file2.txt/
 main.log
 *.log
+
+*.js
