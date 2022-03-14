@@ -1,1 +1,3 @@
 This is what inside file3
+
+blah blah blah modified.
